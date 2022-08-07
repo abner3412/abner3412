@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abner3412
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JavaScript
 
 
 <!---
