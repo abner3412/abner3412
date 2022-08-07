@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abner3412
+- 👋 Hi, I’m Joseph
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning JavaScript
 
